@@ -2,7 +2,7 @@
 
 Carro a control remoto con mecanismo de pateo para impactar una pelota de ping pong, utilizado en competencias de **FUTBOL-ROBOT**.
 
-Para la competencia es neesario la implementación de 2 carros rc.
+Para la competencia fue necesaria la implementación de 2 carros rc.
 
 ![carros en cancha](https://github.com/user-attachments/assets/6c64a3f3-58df-4512-a62e-8f9e4a9a27e7)
 
