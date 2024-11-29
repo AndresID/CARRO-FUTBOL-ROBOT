@@ -154,6 +154,8 @@ nRF24L01+ es un transceptor de banda estrecha (~2 MHz), pero eso funciona a nues
 ## Implementación
 ### Diseño
 #### Carro
+![medidas_carro](https://github.com/user-attachments/assets/8fb79b0c-bf00-47bf-8923-b42c0c8ad579)
+![medidas_chute](https://github.com/user-attachments/assets/d81462ae-ee78-4f3b-b31e-ff3c2396a585)
 ![DISEÑO CARRO](https://github.com/user-attachments/assets/435f123a-3d59-4163-ad9c-7ca781ab9808)
 
 #### Control
