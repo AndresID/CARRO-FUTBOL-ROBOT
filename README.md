@@ -1,4 +1,4 @@
-# CARRO-FUTBOL-ROBOT ⚽
+# CARRO FUTBOL-ROBOT ⚽
 
 Carro a control remoto con mecanismo de pateo para impactar una pelota de ping pong, utilizado en competencias de **FUTBOL-ROBOT**.
 
