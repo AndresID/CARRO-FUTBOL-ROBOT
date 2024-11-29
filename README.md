@@ -8,21 +8,23 @@ Para la competencia es neesario la implementación de 2 carros rc.
 
 
 ## Componentes del proyecto.
-2x Arduino UNO.
+-2x Arduino UNO.
 
-2x Shield Joystick para Arduino UNO.
+-2x Shield Joystick para Arduino UNO.
 
-2x Arduino NANO.
+-2x Micro Servo SG-90.
 
-2x LM1117T.
+-2x Arduino NANO.
 
-4x Capacitores electroliticos de 10uF.
+-2x LM1117T.
 
-2x Modulo L298n.
+-4x Capacitores electroliticos de 10uF.
 
-4 Motores N20-30 6V 300rpm.
+-2x Modulo L298n.
 
-4x nRF24L01+.
+-4 Motores N20-30 6V 300rpm.
+
+-4x nRF24L01+.
 
 ## Arduino NANO
 ![Arduino NANO](https://github.com/user-attachments/assets/898a8f89-511a-47d0-bf99-3d9cd5ecf519)
@@ -60,6 +62,24 @@ nRF24L01+ es un transceptor de banda estrecha (~2 MHz), pero eso funciona a nues
 ![LM1117T](https://github.com/user-attachments/assets/91465357-7761-4e9a-9a8e-317ac70d04b5)
 
 ![Esquematico nano_nrf24l01](https://github.com/user-attachments/assets/b75a1f95-19a6-46dd-ba80-cd47fc84cf41)
+
+### Servo SG-90
+![MICROSERVO-SG90](https://github.com/user-attachments/assets/6dc06b7a-4373-4651-af49-e03a2b4ed1fa)
+### Características
+• Weight: 9 g
+
+
+• Dimension: 22.2 x 11.8 x 31 mm approx.
+
+• Stall torque: 1.8 kgf·cm
+
+• Operating speed: 0.1 s/60 degree
+
+• Operating voltage: 4.8 V (~5V)
+
+• Dead band width: 10 μs
+
+• Temperature range: 0 ºC – 55 ºC 
 
 ## Arduino UNO
 ![Arduino UNO](https://github.com/user-attachments/assets/43efba03-fb16-4c11-a885-921c84e93d18)
